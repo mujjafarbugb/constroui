@@ -1,0 +1,1 @@
+import{r,a as t}from"./index.e693ecd7.js";import{H as o}from"./HomeBredCurbs.980e855b.js";import"./index.esm.2a77e31f.js";const u=()=>(r.exports.useState("usa"),t("div",{children:t(o,{title:"Logout Page "})}));export{u as default};
